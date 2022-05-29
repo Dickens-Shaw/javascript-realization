@@ -1,4 +1,6 @@
-// 用法如下:
+/**
+ * 实现compose方法
+ */
 function fn1(x) {
   return x + 1;
 }
